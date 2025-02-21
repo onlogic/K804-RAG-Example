@@ -4,4 +4,4 @@ This repository contains the code for a minimal example running a local LLM with
 
 The AI chatbot uses context data from the `product_manuals` folder, which contain OnLogic product manual pdfs. The notebook shows the process for loading and splitting these pdfs, and then creating a simple chroma vector database to store embeddings for the model to access. 
 
-Read more about local AI and RAG on our blog post, "Run LLMs Locally: A Guide to RAG Using the OnLogic Karbon 804"
+Read more about local AI and RAG on our blog post: "Run LLMs Locally: A Guide to RAG Using the OnLogic Karbon 804."
